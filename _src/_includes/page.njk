@@ -9,9 +9,12 @@
 </head>
 <body>
     <header>
+        <a href="#main"><img class="logo" src="img/Bon_Jovi_-_Logo.png"></a>
         {% include 'nav.html'%}
     </header>
-    {{ content | safe }}
+    <main>
+        {{ content | safe }}
+    </main>
     <footer>
         {% include 'nav.html'%}
     </footer>

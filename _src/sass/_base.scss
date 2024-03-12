@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+main {
+    margin: 0;
+    padding: 2vw 10vw;
+    background-color: $color__white;
+}
+header {
+    width: 100%;
+    margin: 0;
+    padding: 2vw 0 0 0; 
+    background-color: $color__black;
+    text-decoration: none;
+    display: block;
+    .logo {
+        text-align: center;
+        margin: 0 auto;
+        padding: 1vw 10vw;
+    }
+    li {
+        list-style: none;
+        display: inline-block;
+        padding: 1vw 2vw 1vw 2vw;
+        a {
+            text-decoration: none;
+        }
+        &:hover {
+            background-color: lighten($color__red, 15%);
+        }
+    }
+    nav {
+        background-color: $color__red;
+        width: 100%;
+        padding: 0 10vw;
+        ul {
+            margin: 0;
+            padding: 0;
+        }
+        .menu-link {
+            color: $color__white;
+            font-family: $font__heading;
+        }
+    }
+  
+}
