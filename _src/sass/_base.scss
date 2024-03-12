@@ -11,7 +11,6 @@ header {
     margin: 0;
     padding: 2vw 0 0 0; 
     background-color: $color__black;
-    text-decoration: none;
     display: block;
     .logo {
         text-align: center;
@@ -43,4 +42,25 @@ header {
         }
     }
   
+}
+footer { 
+    width: 100%;
+    margin: 0;
+    padding: 1vw 10vw 1vw 10vw; 
+    background-color: $color__black;
+    li {
+        list-style: none;
+        padding: 1vw 0;
+    }
+    a {
+        text-decoration: none;
+    }
+    .menu-link {
+        color: $color__white;
+        font-family: $font__main;
+        float: right;        
+        &:hover {
+            color: $color__red;
+        }
+    }
 }
