@@ -39,6 +39,7 @@ header {
         .menu-link {
             color: $color__white;
             font-family: $font__heading;
+            font-size: 1.5vw;
         }
     }
   
@@ -46,11 +47,15 @@ header {
 footer { 
     width: 100%;
     margin: 0;
-    padding: 1vw 10vw 1vw 10vw; 
+    padding: 1vw 10vw 2vw 10vw; 
     background-color: $color__black;
+    nav ul {
+        margin: 0;
+        padding: 0;
+    }
     li {
         list-style: none;
-        padding: 1vw 0;
+        padding: 1.5vw 0;
     }
     a {
         text-decoration: none;
@@ -58,7 +63,8 @@ footer {
     .menu-link {
         color: $color__white;
         font-family: $font__main;
-        float: right;        
+        float: right;
+        font-size: 1.5vw;   
         &:hover {
             color: $color__red;
         }
