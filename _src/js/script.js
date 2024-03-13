@@ -18,6 +18,7 @@ async function getAccessToken() {
   access_token = data.access_token;
 }
 getAccessToken();
+console.log(access_token);
 
 let x = setInterval(function() {
     let now = new Date().getTime();
