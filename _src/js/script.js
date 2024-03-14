@@ -34,18 +34,24 @@ let x = setInterval(function() {
     }
 }, 1000);
 
-fetch(`https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp/albums`, {
-    headers: {
-      'Authorization': 'Bearer ' + access_token
-    }
-  })
-  .then((r) => r.json())
-  .then((d) => {
-    console.log(d);
-  })
-  .catch (e => {
-    console.log(e);
-  });
+const fetch = require('node-fetch');
+
+const url = 'https://spotify23.p.rapidapi.com/artist_albums/?id=58lV9VcRSjABbAbfWS6skp&offset=0&limit=100';
+const options = {
+  method: 'GET',
+  headers: {
+    'X-RapidAPI-Key': 'edfebef2afmsh19785f980d6d183p1b1b91jsn3179a1b345b6',
+    'X-RapidAPI-Host': 'spotify23.p.rapidapi.com'
+  }
+};
+
+try {
+	const response = await fetch(url, options);
+	const result = await response.text();
+	console.log(result);
+} catch (error) {
+	console.error(error);
+}
 
 
 fetch('https://app.ticketmaster.com/discovery/v2/events.json?apikey=' + tmApiKey)
