@@ -16,9 +16,10 @@ async function getAccessToken() {
   });
   const data = await response.json();
   access_token = data.access_token;
+  console.log(access_token);
 }
 getAccessToken();
-console.log(access_token);
+
 
 let x = setInterval(function() {
     let now = new Date().getTime();
