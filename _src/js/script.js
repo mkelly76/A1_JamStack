@@ -16,7 +16,6 @@ async function getAccessToken() {
   });
   const data = await response.json();
   access_token = data.access_token;
-  console.log(access_token);
 }
 getAccessToken();
 
@@ -31,10 +30,22 @@ let x = setInterval(function() {
     document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdown").innerHTML = "EXPIRED";
+        document.getElementById("countdown").innerHTML = "Watch on HULU!";
     }
 }, 1000);
 
+fetch(`https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp/albums`, {
+    headers: {
+      'Authorization': 'Bearer ' + access_token
+    }
+  })
+  .then((r) => r.json())
+  .then((d) => {
+    console.log(d);
+  })
+  .catch (e => {
+    console.log(e);
+  })
 
 
 fetch('https://app.ticketmaster.com/discovery/v2/events.json?apikey=' + tmApiKey)
