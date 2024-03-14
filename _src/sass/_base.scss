@@ -81,3 +81,50 @@ footer {
         }
     }
 }
+
+.container {
+    position: relative;
+    width: 100%;
+  }
+  
+  .image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    right: 0;
+    background-color: rgba($color__gold, .75);
+    overflow: hidden;
+    width: 0;
+    height: 100%;
+    transition: .5s ease;
+  }
+  
+  .container:hover .overlay {
+    width: 100%;
+    left: 0;
+  }
+  
+  .text {
+    color: darken($color__blue, 25%);
+    text-shadow: 1px 1px 2px $color__white;
+    font-weight: bold;
+    font-family: $font__heading;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    white-space: nowrap;
+  }
+  .discography {
+    column-count: 2;
+    display: inline-block;
+  }

@@ -1,0 +1,107 @@
+---
+title: Discography
+layout: "page.njk"
+---
+
+# For Your Listening Pleasure
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/58lV9VcRSjABbAbfWS6skp?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<div class="discography">
+<div class="container">
+  <img src="../img/Bon_Jovi_Album.jpg" alt="By The cover art can be obtained from Polygram Records., Fair use, https://en.wikipedia.org/w/index.php?curid=2068867" class="image">
+  <div class="overlay">
+    <div class="text">BON JOVI [1984]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_7800_Fahrenheit.jpg" alt="By The cover art can be obtained from the record label., Fair use, https://en.wikipedia.org/w/index.php?curid=2069245" class="image">
+  <div class="overlay">
+    <div class="text">7800° FAHRENHEIT [1985]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_jovi_slippery_when_wet.jpg" alt="By The cover art can be obtained from Mercury / Vertigo., Fair use, https://en.wikipedia.org/w/index.php?curid=36638487" class="image">
+  <div class="overlay">
+    <div class="text">SLIPPERY WHEN WET [1986]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_New_Jersey.jpg" alt="By The cover art can be obtained from Mercury Records / Vertigo Records., Fair use, https://en.wikipedia.org/w/index.php?curid=1821179" class="image">
+  <div class="overlay">
+    <div class="text">NEW JERSEY [1988]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Keep_The_Faith_(Bon_Jovi_album_-_cover_art).jpg" alt="By The cover art can be obtained from Mercury Records., Fair use, https://en.wikipedia.org/w/index.php?curid=17826255" class="image">
+  <div class="overlay">
+    <div class="text">KEEP THE FAITH [1992]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_-_These_Days_(1995)_Front_Cover.jpg" alt="By Mark Seliger - http://www.cdjapan.co.jp/detailview.html?KEY=UICY-91633, Fair use, https://en.wikipedia.org/w/index.php?curid=41619350" class="image">
+  <div class="overlay">
+    <div class="text">THESE DAYS [1995]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/BonJoviCrushalbumcover.jpg" alt="By Derived from a digital capture (photo/scan) of the album cover (creator of this digital version is irrelevant as the copyright in all equivalent images is still held by the same party). Copyright held by the record company or the artist. Claimed as fair use regardless., Fair use, https://en.wikipedia.org/w/index.php?curid=14885524" class="image">
+  <div class="overlay">
+    <div class="text">CRUSH [2000]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_Bounce.jpg" alt="Fair use, https://en.wikipedia.org/w/index.php?curid=2071438" class="image">
+  <div class="overlay">
+    <div class="text">BOUNCE [2002]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Have_a_Nice_Day_Bon_Jovi_album.jpg" alt="By The cover art can be obtained from Island., Fair use, https://en.wikipedia.org/w/index.php?curid=26803223" class="image">
+  <div class="overlay">
+    <div class="text">HAVE A NICE DAY [2005]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Lost_Highway.jpg" alt="By UMGNashville.com, Fair use, https://en.wikipedia.org/w/index.php?curid=11843061" class="image">
+  <div class="overlay">
+    <div class="text">LOST HIGHWAY [2007]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_-_The_Circle.jpg" alt="By The cover art can be obtained from the record label., Fair use, https://en.wikipedia.org/w/index.php?curid=24555344" class="image">
+  <div class="overlay">
+    <div class="text">THE CIRCLE [2009]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_What_About_Now.png" alt="By Bon Jovi - http://www.bonjovi.com/en/news/42231866848/what-about-now-album-art-now-available-on-the-mobile#.UQ-1C6Up-GU, Fair use, https://en.wikipedia.org/w/index.php?curid=38418423" class="image">
+  <div class="overlay">
+    <div class="text">WHAT ABOUT NOW [2013]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_Burning_Bridges_album_cover.jpg" alt="By Bon Jovi - amazon.com, Fair use, https://en.wikipedia.org/w/index.php?curid=47411748" class="image">
+  <div class="overlay">
+    <div class="text">BURNING BRIDGES [2015]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Artwork_for_Bon_Jovi's_album_This_House_Is_Not_for_Sale.jpg" alt="By Island Records - Island Records, Fair use, https://en.wikipedia.org/w/index.php?curid=51489427" class="image">
+  <div class="overlay">
+    <div class="text">THIS HOUSE IS NOT FOR SALE [2016]</div>
+  </div>
+</div>
+<div class="container">
+  <img src="../img/Bon_Jovi_-_Bon_Jovi_2020.png" alt="By https://music.apple.com/au/album/bon-jovi-2020/1499567111, Fair use, https://en.wikipedia.org/w/index.php?curid=63171279" class="image">
+  <div class="overlay">
+    <div class="text">2020 [2020]</div>
+  </div>
+</div>
+<div class="container">
+<iframe width="560" height="315" class="image" src="https://www.youtube.com/embed/hPRayLpcWbI?si=_gIpjIy9CJfYeERo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <div class="overlay">
+    <div class="text">BON JOVI FOREVER [COMING SOON]</div>
+  </div>
+</div>
+</div>

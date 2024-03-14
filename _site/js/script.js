@@ -12,11 +12,9 @@ let x = setInterval(function() {
     document.getElementById("countdown").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdown").innerHTML = "EXPIRED";
+        document.getElementById("countdown").innerHTML = "Watch on HULU!";
     }
 }, 1000);
-
-
 
 fetch('https://app.ticketmaster.com/discovery/v2/events.json?apikey=' + tmApiKey)
   .then((response) => response.json())
