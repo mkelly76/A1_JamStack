@@ -45,7 +45,7 @@ fetch(`https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp/albums`, {
   })
   .catch (e => {
     console.log(e);
-  })
+  });
 
 
 fetch('https://app.ticketmaster.com/discovery/v2/events.json?apikey=' + tmApiKey)
