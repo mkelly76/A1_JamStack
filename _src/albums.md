@@ -1,7 +1,6 @@
 ---
 title: Albums
 layout: "page.njk"
-hasjs: 1
 ---
 
 # For Your Listening Pleasure
