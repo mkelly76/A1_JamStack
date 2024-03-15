@@ -58,7 +58,7 @@ iframe {
 footer { 
     width: 100%;
     margin: 0;
-    padding: 1vw 10vw 2vw 10vw; 
+    padding: 1vw 10vw 1vw 10vw; 
     background-color: $color__black;
     nav ul {
         margin: 0;
@@ -85,6 +85,7 @@ footer {
 .container {
     position: relative;
     width: 100%;
+    border: 1px solid $color__red;
   }
   
   .image {
@@ -111,11 +112,11 @@ footer {
   }
   
   .text {
-    color: darken($color__blue, 25%);
+    color: darken($color__blue, 40%);
     text-shadow: 1px 1px 2px $color__white;
     font-weight: bold;
     font-family: $font__heading;
-    font-size: 20px;
+    font-size: 1.5vw;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -127,4 +128,8 @@ footer {
   .discography {
     column-count: 2;
     display: inline-block;
+    padding: 3vw 0;
+  }
+  .space {
+    padding: 0 0 1vw 0;
   }

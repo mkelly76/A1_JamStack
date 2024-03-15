@@ -46,3 +46,7 @@ As for the future, Jon Bon Jovi is not finished chasing his ever-evolving dreams
 When asked by *60 Minutes* Australia what chapter of the Jon Bon Jovi storybook he's currently at, Jon said: "I don't know, that's the beauty of it. We're just ... a little more than halfway there."
 
 It's a perspective Jon wears well because it comes from a place of gratitude and contentment. He has never forgotten how the journey started, and how much work and sacrifice it took to reach the fortunate place where he is today - not only from him, but from all the peoole who have supported and loved him over the years. "It's a gift that God gives you the job you wanted when you were a kid, and that I get to do it still," he says. "I'm the luckiest man in the world."
+
+---
+
+> *Shared from Limited Edition magazine: **JON BON JOVI : HOW A KID FROM NEW JERSEY BECAME A ROCK 'N' ROLL LEGEND***

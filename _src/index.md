@@ -1,12 +1,14 @@
 ---
 title: Home Page
-layout: "page.njk"
+layout: "homepage.njk"
 hasjs: 1
 ---
 
 <div class="documentary">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lScnabjU6Is?si=l52om-qzKiOzkXky" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+<p style="text-align: center;">The exclusive 4-part event spanning the band’s iconic history is out in:</p>
 <p id="countdown" class="countdown"></p>
 
 # Why We Love Jon Bon Jovi
@@ -21,5 +23,5 @@ As we've watched Jon's career unfold over the decades, we've seen him continue t
 
 Jon Bon Jovi is a rarity - not only in music, but in any walk of life. He's a person who has achieved success without letting success corrupt his values or how he chooses to engage with the world. Married to his high-school sweetheart for more than three decades, committed to family and community more than he is to fame and fortune, and always striving to be the best version of himself that he can possibly be - his is a small-town-boy-makes-good story that anyone can applaud and admire.
 
-### Upcoming Shows (Ticketmaster API?)
+[//]: <> (###Upcoming Shows with Ticketmaster API? - ran out of time to make it work)
 <div id="tickemaster"></div>
