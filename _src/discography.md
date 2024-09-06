@@ -117,8 +117,7 @@ layout: "page.njk"
 <div class="container">
   <img src="../img/Artwork_for_Bon_Jovi's_album_This_House_Is_Not_for_Sale.jpg" alt="By Island Records - Island Records, Fair use, https://en.wikipedia.org/w/index.php?curid=51489427" class="image">
   <div class="overlay">
-    <div class="text">THIS HOUSE IS NOT FOR SALE</div>
-    <div class="text">[2016]</div>
+    <div class="text">THIS HOUSE IS NOT FOR SALE<br>[2016]</div>
   </div>
 </div>
 </div>
