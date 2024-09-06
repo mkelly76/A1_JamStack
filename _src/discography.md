@@ -117,7 +117,8 @@ layout: "page.njk"
 <div class="container">
   <img src="../img/Artwork_for_Bon_Jovi's_album_This_House_Is_Not_for_Sale.jpg" alt="By Island Records - Island Records, Fair use, https://en.wikipedia.org/w/index.php?curid=51489427" class="image">
   <div class="overlay">
-    <div class="text">THIS HOUSE IS NOT FOR SALE [2016]</div>
+    <div class="text">THIS HOUSE IS NOT FOR SALE</div>
+    <div class="text">[2016]</div>
   </div>
 </div>
 </div>
@@ -133,7 +134,7 @@ layout: "page.njk"
 <div class="container">
   <img src="../img/Forever.jpg" alt="New album cover for Forever, being released June 7, 2024." class="image">
   <div class="overlay">
-    <div class="text">FOREVER [COMING SOON JUNE 2024!]</div>
+    <div class="text">FOREVER [2024]</div>
   </div>
 </div>
 </div>
